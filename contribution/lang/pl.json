@@ -32,7 +32,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access unit exchange",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 3 poziom, aby uzyskać dostep do wymiany jednostek",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	}
  	 	},
@@ -42,11 +42,11 @@
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "If you like the game, please consider donating :)",
+ 	 	 	 	"trans": "Jeśli podoba ci się ta gra, pomyśl nad donacją :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the cosmetic merchant",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 3 poziom, aby uzyskać dostęp do handlarza przedmiotów kosmetycznych",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -62,7 +62,7 @@
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Broń smith",
+ 	 	 	 	"trans": "Kowal broni",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	}
  	 	},
@@ -72,31 +72,31 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "To progress to the next area, you need to get Secret Key Fragments from dungeons \r\n        and use the Terminal to Brute Force a key for the next area",
+ 	 	 	 	"trans": ""To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "This is your personal computer. Although a little outdated, it can get the job done with enough patience",
+ 	 	 	 	"trans": "Oto twój osobisty komputer. Trochę stary, ale z odrobiną cierpliwości wykona zadanie",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 5, aby uzyskać dostęp do terminalu",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 5 poziom, aby uzyskać dostęp do terminalu"
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
  	 	"store": {
  	 	 	"name": {
- 	 	 	 	"trans": "Trinoky mart",
+ 	 	 	 	"trans": "Trinoky Mart",
  	 	 	 	"eng": "Trinoky Mart"
  	 	 	}
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaki",
+ 	 	 	 	"trans": "Bank Arasaki",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the bank",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 5 poziom, aby uzyskać dostęp do banku",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -106,25 +106,25 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A workbench with the necessary tools, allowing you to tinker with your equipment.",
+ 	 	 	 	"trans": "Warsztat z potrzebnymi narzędziami pozwala ci majstrować przy twoim ekwipunku.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 10, aby uzyskać dostęp do stacji kalibracyjnej",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 10 poziom, aby uzyskać dostęp do stacji kalibracyjnej",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	 	"trans": "Stacja handlowa Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family-run trading shop that lets you trade with scavenged goods.",
+ 	 	 	 	"trans": "Rodzinny dom handlowy pozwalający ci handlować tym, co znalazłeś.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być co najmniej 10, aby uzyskać dostęp do kupca",
+ 	 	 	 	"trans": "Musisz mieć przynajmniej 10 poziom, aby uzyskać dostęp do kupca",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
