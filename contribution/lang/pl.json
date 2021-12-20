@@ -32,21 +32,21 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access unit exchange",
+ 	 	 	 	"trans": "Musisz być na przynajmniej 3 poziomie, aby uzyskać dostęp do wymiany",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	}
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kosmetyczna cyberwear",
+ 	 	 	 	"trans": "Kosmetyczne cyberwear",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "If you like the game, please consider donating :)",
+ 	 	 	 	"trans": "Jeśli podoba ci się ta gra, rozważ proszę przekazanie donacji :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the cosmetic merchant",
+ 	 	 	 	"trans": "Musisz być na przynajmniej 3 poziomie, aby uzyskać dostęp do handlarza przedmiotów kosmetycznych",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -56,13 +56,13 @@
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "You can use your acquired Caches to print new equipment here",
+ 	 	 	 	"trans": "Możesz wykorzystać tu swoje zebrane Pamięci Podręczne aby wydrukować nowe wyposarzenie",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	}
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Broń smith",
+ 	 	 	 	"trans": "Kowal Broni",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	}
  	 	},
@@ -72,15 +72,15 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "To progress to the next area, you need to get Secret Key Fragments from dungeons \r\n        and use the Terminal to Brute Force a key for the next area",
+ 	 	 	 	"trans": "Aby przejść do następnej strefy, musisz znaleźć Sekretne Fragmenty Klucza z lohów, \r\n        i użyć Terminala, aby zdobyć klucz do następnej strefy",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "This is your personal computer. Although a little outdated, it can get the job done with enough patience",
+ 	 	 	 	"trans": "Twój osobisty komputer, mimo iż trochę przestarzały, poradzi sobie z zadaniami z odrobiną cierpliwości",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 5, aby uzyskać dostęp do terminalu",
+ 	 	 	 	"trans": "Musisz być na przynajmniej 5 poziomie, aby uzyskać dostęp do terminalu",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -92,11 +92,11 @@
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaki",
+ 	 	 	 	"trans": "Bank Arasaka",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the bank",
+ 	 	 	 	"trans": "Musisz być na przynajmniej 5 poziomie, aby uzyskać dostęp do banku",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -106,25 +106,25 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A workbench with the necessary tools, allowing you to tinker with your equipment.",
+ 	 	 	 	"trans": "Stół z narzędziami pozwala ci majsterkować przy swoim wyposarzeniu",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 10, aby uzyskać dostęp do stacji kalibracyjnej",
+ 	 	 	 	"trans": "Musisz być na przynajmniej 10 poziomie, aby uzyskać dostęp do Stacji Kalibracyjnej",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	 	"trans": "Stacja Handlowa Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family-run trading shop that lets you trade with scavenged goods.",
+ 	 	 	 	"trans": "Rodzinny dom handlowy pozwala ci handlować tym, co znaleźli",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być co najmniej 10, aby uzyskać dostęp do kupca",
+ 	 	 	 	"trans": "Musisz być na przynajmniej 10 poziomie, aby uzyskać dostęp do kupca",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -134,7 +134,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully-automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "W pełni automatyczny recykler, zdolny do zrecyklingowania przedmiotów do ich podstawowej formy złomu",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -160,7 +160,7 @@
  	 	 	 	"amount",
  	 	 	 	"levelName"
  	 	 	],
- 	 	 	"trans": "Otrzymałeś punkty doświadczenia ${amount} ${levelName}",
+ 	 	 	"trans": "Otrzymałeś ${amount} ${levelName} punktów doświadczenia",
  	 	 	"eng": "You received ${amount} ${levelName} experience points"
  	 	}
  	},
@@ -173,7 +173,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ranking drukowania",
+ 	 	 	 	"trans": "ranga drukowania",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -185,13 +185,13 @@
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "AMMO Crafting",
+ 	 	 	 	"trans": "Produkcja amunicji",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "Umiejętność smaczna",
+ 	 	 	 	"trans": "Umiejętność poszukiwania",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
@@ -205,24 +205,24 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La City Center",
+ 	 	 	 	"trans": "Centrum Shangri-La City",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Central Hub]\r\n        One of the busiest cities on the continent. Here you can find all sorts of people from around the globe.",
+ 	 	 	 	"trans": "[Central Hub]\r\n        Jedno z najruchliwszych miast na kontynencie. Tutaj znajdziesz wszelakich ludzi z całego globu.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to Hyper Train Central Station",
+ 	 	 	 	 	"trans": "Idź do Dworca Centralnego Hiperpociągu",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Rozpocznij przygodę na Epic Loot tutaj",
+ 	 	 	 	 	"trans": "Rozpocznij swoją przygodę z epickimi łupami tutaj",
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Idź do Hyper Train Central Station",
+ 	 	 	 	 	"trans": "Idź do Dworca Centralnego Hiperpociągu",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
@@ -238,17 +238,17 @@
  	 	 	},
  	 	 	"toMarket": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Idź do Shangri-La Market Street",
+ 	 	 	 	 	"trans": "Idź targ uliczny Shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Możesz sprzedawać lub kupować przedmioty z innych graczy tutaj",
+ 	 	 	 	 	"trans": "Możesz sprzedawać lub kupować przedmioty od innych graczy tutaj",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquartesr",
+ 	 	 	 	 	"trans": "Idź do kwatery głównej gangu",
  	 	 	 	 	"eng": "Go to gang headquarters"
  	 	 	 	}
  	 	 	}
@@ -259,7 +259,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Job Hub]\r\n        Where many shops and businesses reside. It is the perfect location to try out your skills.",
+ 	 	 	 	"trans": "[Job Hub]\r\n        Miejsce, w którym znajduje się wiele sklepów i firm. Idealne miejsce na doskonalenie swoich umiejętności.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -271,11 +271,11 @@
  	 	},
  	 	"market": {
  	 	 	"name": {
- 	 	 	 	"trans": "Sangri-La Market Street",
+ 	 	 	 	"trans": "Rynek Sangri-La",
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Player Market]\r\n        The famous street market in Shangri-La where loads of stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself.",
+ 	 	 	 	"trans": "[Player Market]\r\n        Słynny targ uliczny w Shangri-La, na którym mnóstwo straganów wypełnia ulicę.\r\n        Może znajdziesz to, czego potrzebujesz, lub samemu postawisz stragan",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
@@ -287,11 +287,11 @@
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dworzec Centralny Hyper Train",
+ 	 	 	 	"trans": "Dworzec Centralny Hiperpociągu",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Adventure]\r\n        Using the hyperloop, you can travel at super speed across the continent with ease.",
+ 	 	 	 	"trans": "[Adventure]\r\n        Korzystając z hyperloop, możesz z łatwością podróżować po całym kontynencie z niezwykłą prędkością.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop, you can travel at supersonic speed across the continent with ease."
  	 	 	}
  	 	},
